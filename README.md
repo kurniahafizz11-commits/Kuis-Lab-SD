@@ -8,7 +8,7 @@
 <strong>program 2 : sebuah sistem antrean dan pengelolaan buku perpustakaan. program ini dapat menginput daftar antrean & cek antrean, melihat riwayat kembali dan pengembalian buku dengan algoritma stuck,
 terdapat input id buku untuk disimpan dengan BST, dan pencarian id buku.</strong>
 
-<strong> program 3 : </strong>
+<strong> program 3 : sebuah sistem pencarian rute di lingkungan kampus. program ini terdapat fitur untuk menampilkan adjacency matrix, penelusuran berdasarkan BFS maupun DFS serta dapat mencari rute terpendek berdasarkan Djikstra. </strong>
 
 
 

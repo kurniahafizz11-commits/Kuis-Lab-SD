@@ -123,9 +123,5 @@ Alur yang disarankan:
 4. Pilih `3` lalu masukkan NIM yang ingin dihapus, kemudian pilih `4` lagi untuk melihat slot berstatus DELETED.
 5. Pilih `5` untuk keluar.
 
-## Catatan
-- Semua program ditulis dalam C++ standar dan masing-masing berdiri sendiri (satu file per soal).
-- Input teks (Nama dan nama buku) menggunakan `cin >>`, sehingga ditulis tanpa spasi (contoh: `Budi` atau `Budi_Santoso`).
-
 ## Video Penjelasan
 YouTube: https://youtu.be/tKYo0iUeEg4?si=uoR3uzNyPBNkVE4W

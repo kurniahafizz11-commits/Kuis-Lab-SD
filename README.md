@@ -10,14 +10,16 @@ terdapat input id buku untuk disimpan dengan BST, dan pencarian id buku.</strong
 
 
 
-#
-<strong>Kuis-Lab-SD/
-  ├── soal_no_1.cpp
-  ├── soal_no_2.cpp
-  ├── soal_no_3.cpp
-  ├── soal_no_4.cpp
-  └── README.md .</strong>
+## Struktur Folder
 
+```
+Kuis-Lab-SD/
+├── soal_no_1.cpp
+├── soal_no_2.cpp
+├── soal_no_3.cpp
+├── soal_no_4.cpp
+└── README.md
+```
 
 # 
 <strong>Cara Menjalankan Program </strong>

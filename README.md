@@ -10,6 +10,7 @@ terdapat input id buku untuk disimpan dengan BST, dan pencarian id buku.</strong
 
 <strong> program 3 : sebuah sistem pencarian rute di lingkungan kampus. program ini terdapat fitur untuk menampilkan adjacency matrix, penelusuran berdasarkan BFS maupun DFS serta dapat mencari rute terpendek berdasarkan Djikstra. </strong>
 
+<strong> program 4 : sebuah Sistem Pengelolaan Data Mahasiswa Menggunakan Hash Table. Program ini dapat insert data mahasiswa yaitu NIM sebagai Key dan Nama sebagai Value, mencari NIM dengan urutan probing yang sama, lalu menampilkan indeks dan nama, menandai slot sebagai deleted tanpa mengosongkannya, dan menampilkan seluruh 20 indeks beserta isinya ([KOSONG], [DELETED], atau NIM dan nama).
 
 
 ## Struktur Folder

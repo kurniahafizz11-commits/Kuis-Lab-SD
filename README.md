@@ -1,6 +1,6 @@
 ## identitas
-Nama: Kurnia Hafiz Arrasyid
-Nim: 251401008
+<strong> Nama: Kurnia Hafiz Arrasyid </strong>
+<strong> Nim: 251401008 </strong>
 
 ## Deskripsi Program
 <strong>program 1 : sebuah sistem pengelolaan mahasiswa yang terdiri dari NIM, Nama, dan Nilai. Terdapat menu atau fitur untuk menambahkan data mahasiswa, mengurutkan data dari yang terkceil menggunakan algoritma insertion sort serta menampilkan data, terdapat pencarian NIM dengan Linear Search dan pencarian Nilai dengan Binery Search.</strong>

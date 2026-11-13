@@ -26,11 +26,11 @@ Kuis-Lab-SD/
 
 ## Cara Menjalankan Program 
 
-Pastikan compiler C++ (misalnya g++ dari MinGW) sudah terpasang. Buka terminal di folder repository, lalu jalankan salah satu program,
+Pastikan compiler C++ (misalnya g++ dari MinGW) sudah terpasang. Buka terminal di folder repository, lalu jalankan salah satu program.
 
-Cara Umum 
-1.Buka file .cpp di VS Code.
-2.Klik tombol ▶ Run Code di kanan atas, atau tekan Ctrl + Alt + N.
+Cara Umum: 
+<br>1.Buka file .cpp di VS Code.</br>
+<br>2.Klik tombol ▶ Run Code di kanan atas, atau tekan Ctrl + Alt + N.</br>
 
 ## Video Penjelasan
 

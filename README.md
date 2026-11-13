@@ -24,9 +24,21 @@ Kuis-Lab-SD/
 └── README.md
 ```
 
-## Cara Menjalankan Program 
+## Cara Menjalankan Program
+Cara melalui terminal:
+<br>Pastikan compiler C++ (misalnya g++ dari MinGW) sudah terpasang. Buka terminal di folder repository, lalu jalankan salah satu program, contohnya soal 1: </br>
 
-Pastikan compiler C++ (misalnya g++ dari MinGW) sudah terpasang. Buka terminal di folder repository, lalu jalankan salah satu program.
+```bash
+g++ soal_no_1.cpp -o soal_no_1
+./soal_no_1
+```
+
+Di Windows (Command Prompt atau PowerShell), jalankan dengan:
+
+```bash
+g++ soal_no_1.cpp -o soal_no_1
+soal_no_1.exe
+```
 
 Cara Umum: 
 <br>1.Buka file .cpp di VS Code.</br>

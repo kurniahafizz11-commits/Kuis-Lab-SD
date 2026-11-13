@@ -21,7 +21,13 @@ Kuis-Lab-SD/
 └── README.md
 ```
 
-# 
+## 
 <strong>Cara Menjalankan Program </strong>
 
 Pastikan compiler C++ (misalnya g++ dari MinGW) sudah terpasang. Buka terminal di folder repository, lalu jalankan salah satu program,
+
+## Video Penjelasan
+
+Video penjelasan keempat program beserta contoh hasil eksekusinya:
+
+[Tonton di YouTube](https://youtu.be/ABC123xyz)

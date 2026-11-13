@@ -17,3 +17,9 @@ terdapat input id buku untuk disimpan dengan BST, dan pencarian id buku.</strong
 ├── soal_no_3.cpp
 ├── soal_no_4.cpp
 └── README.md .</strong>
+
+
+# 
+<strong>Cara Menjalankan Program </strong>
+
+Pastikan compiler C++ (misalnya g++ dari MinGW) sudah terpasang. Buka terminal di folder repository, lalu jalankan salah satu program,

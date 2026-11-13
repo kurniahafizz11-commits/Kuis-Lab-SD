@@ -48,4 +48,4 @@ Cara Umum:
 
 Video penjelasan keempat program beserta contoh hasil eksekusinya:
 
-[Tonton di YouTube]([https://youtu.be/ABC123xyz](https://youtu.be/tKYo0iUeEg4?si=uoR3uzNyPBNkVE4W))
+[Tonton di YouTube](https://youtu.be/tKYo0iUeEg4?si=uoR3uzNyPBNkVE4W)

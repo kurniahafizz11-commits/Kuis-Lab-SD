@@ -1,6 +1,8 @@
-# Nama: Kurnia Hafiz Arrasyid
-# Nim: 251401008
+## identitas
+Nama: Kurnia Hafiz Arrasyid
+Nim: 251401008
 
+## Deskripsi Program
 <strong>program 1 : sebuah sistem pengelolaan mahasiswa yang terdiri dari NIM, Nama, dan Nilai. Terdapat menu atau fitur untuk menambahkan data mahasiswa, mengurutkan data dari yang terkceil menggunakan algoritma insertion sort serta menampilkan data, terdapat pencarian NIM dengan Linear Search dan pencarian Nilai dengan Binery Search.</strong>
 
 <strong>program 2 : sebuah sistem antrean dan pengelolaan buku perpustakaan. program ini dapat menginput daftar antrean & cek antrean, melihat riwayat kembali dan pengembalian buku dengan algoritma stuck,
@@ -21,8 +23,7 @@ Kuis-Lab-SD/
 └── README.md
 ```
 
-## 
-<strong>Cara Menjalankan Program </strong>
+## Cara Menjalankan Program 
 
 Pastikan compiler C++ (misalnya g++ dari MinGW) sudah terpasang. Buka terminal di folder repository, lalu jalankan salah satu program,
 

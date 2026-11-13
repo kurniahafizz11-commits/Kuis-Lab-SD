@@ -1,4 +1,4 @@
-## identitas
+## Identitas
 <strong> Nama: Kurnia Hafiz Arrasyid </strong>
 <strong> <br> Nim: 251401008 </strong>
 

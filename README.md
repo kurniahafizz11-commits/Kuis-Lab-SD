@@ -28,6 +28,10 @@ Kuis-Lab-SD/
 
 Pastikan compiler C++ (misalnya g++ dari MinGW) sudah terpasang. Buka terminal di folder repository, lalu jalankan salah satu program,
 
+Cara Umum 
+1.Buka file .cpp di VS Code.
+2.Klik tombol ▶ Run Code di kanan atas, atau tekan Ctrl + Alt + N.
+
 ## Video Penjelasan
 
 Video penjelasan keempat program beserta contoh hasil eksekusinya:
